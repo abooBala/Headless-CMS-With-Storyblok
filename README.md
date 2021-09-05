@@ -1,2 +1,2 @@
 # Headless-CMS-With-Storyblok
-This Django application call from a Storyblok API. 
+This Django application calls from a Storyblok API. 
